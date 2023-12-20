@@ -1,6 +1,6 @@
 # Bamboo Scriptable Widget
 
-![Bamboo Widget Preview](link_to_preview_image.png)
+![Bamboo Widget Preview](https://github.com/Korysam15/bamboo-scriptable-widget/blob/main/docs/img/widget.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
