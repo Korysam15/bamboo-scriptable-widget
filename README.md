@@ -26,7 +26,7 @@ Before you begin, ensure you have the following prerequisites:
 1. Clone or download the repository:
 
     ```bash
-    git clone https://github.com/your-username/bamboo-scriptable-widget.git
+    git clone https://github.com/Korysam15/bamboo-scriptable-widget.git
     ```
 
 2. Open the Scriptable app.
