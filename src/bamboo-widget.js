@@ -67,7 +67,7 @@ function populateWidgetData(listwidget) {
     let rightStack = row.addStack();
 
     let isSuccess = result.deploymentState === "SUCCESS";
-    let backIcon = isSuccess ? SFSymbol.named("xmark.circle.fill") : SFSymbol.named("checkmark.circle.fill");
+    let backIcon = isSuccess ? SFSymbol.named("checkmark.circle.fill") : SFSymbol.named("xmark.circle.fill");
 
     let backImg = rightStack.addImage(backIcon.image);
     backImg.imageSize = new Size(30, 30)
